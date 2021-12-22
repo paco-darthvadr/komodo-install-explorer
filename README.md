@@ -32,6 +32,7 @@ This script installs dependencies and prepares the directory for installing the 
 ```bash
 ./setup-explorer-directory.sh
 ```
+some distributions may require you to install python2 
 
 It should create a subdirectory named `node_modules`
 
